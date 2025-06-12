@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/learn_cmake2.dir/hello_cpp2.cpp.o CMakeFiles/learn_cmake2.dir/nb_cpp.cpp.o -o learn_cmake2 

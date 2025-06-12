@@ -1,0 +1,3 @@
+/home/uadmin/learning/learn1/CMakeFiles/learn_cmake2.dir
+/home/uadmin/learning/learn1/CMakeFiles/edit_cache.dir
+/home/uadmin/learning/learn1/CMakeFiles/rebuild_cache.dir
