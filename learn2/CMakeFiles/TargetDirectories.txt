@@ -1,0 +1,6 @@
+/home/uadmin/learning/learn2/CMakeFiles/cpp_node.dir
+/home/uadmin/learning/learn2/CMakeFiles/uninstall.dir
+/home/uadmin/learning/learn2/CMakeFiles/CPP_NODE_uninstall.dir
+/home/uadmin/learning/learn2/CMakeFiles/test.dir
+/home/uadmin/learning/learn2/CMakeFiles/edit_cache.dir
+/home/uadmin/learning/learn2/CMakeFiles/rebuild_cache.dir
