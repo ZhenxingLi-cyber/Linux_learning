@@ -1,0 +1,5 @@
+[console_scripts]
+m3508_node = demo_py_pkg_2.m3508_node:main
+motor_node = demo_py_pkg_2.motor_node:main
+py_node_3 = demo_py_pkg_2.py_node:main
+

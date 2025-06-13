@@ -1,0 +1,68 @@
+[0.024s] Invoking command in '/home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3.1/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake /home/uadmin/learning/learn3/learn3.2/demo_cpp_nodes -DCMAKE_INSTALL_PREFIX=/home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes
+[0.111s] -- The C compiler identification is GNU 11.4.0
+[0.178s] -- The CXX compiler identification is GNU 11.4.0
+[0.185s] -- Detecting C compiler ABI info
+[0.256s] -- Detecting C compiler ABI info - done
+[0.259s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.259s] -- Detecting C compile features
+[0.259s] -- Detecting C compile features - done
+[0.262s] -- Detecting CXX compiler ABI info
+[0.336s] -- Detecting CXX compiler ABI info - done
+[0.341s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.342s] -- Detecting CXX compile features
+[0.342s] -- Detecting CXX compile features - done
+[0.344s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.462s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.539s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.569s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.572s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.578s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.586s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.597s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.630s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.632s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.700s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.721s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.754s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.760s] -- Looking for pthread.h
+[0.824s] -- Looking for pthread.h - found
+[0.824s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.893s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.894s] -- Found Threads: TRUE  
+[0.931s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.999s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.000s] -- Configured cppcheck include dirs: 
+[1.000s] -- Configured cppcheck exclude dirs and/or files: 
+[1.002s] -- Added test 'lint_cmake' to check CMake code style
+[1.007s] -- Added test 'uncrustify' to check C / C++ code style
+[1.007s] -- Configured uncrustify additional arguments: 
+[1.008s] -- Added test 'xmllint' to check XML markup files
+[1.010s] -- Configuring done
+[1.018s] -- Generating done
+[1.022s] -- Build files have been written to: /home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes
+[1.028s] Invoked command in '/home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3.1/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake /home/uadmin/learning/learn3/learn3.2/demo_cpp_nodes -DCMAKE_INSTALL_PREFIX=/home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes
+[1.030s] Invoking command in '/home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3.1/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes -- -j2 -l2
+[1.080s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_node.dir/src/cpp_node.cpp.o[0m
+[3.177s] [100%] [32m[1mLinking CXX executable cpp_node[0m
+[3.262s] [100%] Built target cpp_node
+[3.272s] Invoked command in '/home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3.1/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes -- -j2 -l2
+[3.280s] Invoking command in '/home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3.1/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes
+[3.286s] -- Install configuration: ""
+[3.286s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/lib/demo_cpp_nodes/cpp_node
+[3.286s] -- Set runtime path of "/home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/lib/demo_cpp_nodes/cpp_node" to ""
+[3.286s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/ament_index/resource_index/package_run_dependencies/demo_cpp_nodes
+[3.287s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/ament_index/resource_index/parent_prefix_path/demo_cpp_nodes
+[3.287s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/ament_prefix_path.sh
+[3.287s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/ament_prefix_path.dsv
+[3.287s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/path.sh
+[3.288s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/path.dsv
+[3.288s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.bash
+[3.288s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.sh
+[3.288s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.zsh
+[3.289s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.dsv
+[3.289s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/package.dsv
+[3.289s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/ament_index/resource_index/packages/demo_cpp_nodes
+[3.289s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/cmake/demo_cpp_nodesConfig.cmake
+[3.289s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/cmake/demo_cpp_nodesConfig-version.cmake
+[3.289s] -- Installing: /home/uadmin/learning/learn3/learn3.2/install/demo_cpp_nodes/share/demo_cpp_nodes/package.xml
+[3.290s] Invoked command in '/home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3.1/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn3/learn3.2/build/demo_cpp_nodes

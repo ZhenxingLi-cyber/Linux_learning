@@ -1,0 +1,53 @@
+[0.016s] Invoking command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes -- -j2 -l2
+[0.076s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.258s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.308s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.310s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.320s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.332s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.353s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.397s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.399s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.496s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.554s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.620s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.620s] -- Configured cppcheck include dirs: 
+[0.620s] -- Configured cppcheck exclude dirs and/or files: 
+[0.623s] -- Added test 'lint_cmake' to check CMake code style
+[0.631s] -- Added test 'uncrustify' to check C / C++ code style
+[0.631s] -- Configured uncrustify additional arguments: 
+[0.632s] -- Added test 'xmllint' to check XML markup files
+[0.636s] -- Configuring done
+[0.658s] -- Generating done
+[0.660s] -- Build files have been written to: /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes
+[0.685s] [35m[1mConsolidate compiler generated dependencies of target cpp_node[0m
+[0.693s] [ 25%] [32mBuilding CXX object CMakeFiles/motor_node.dir/src/motor_node.cpp.o[0m
+[0.714s] [ 75%] Built target cpp_node
+[2.446s] [01m[K/home/uadmin/learning/learn3/learn3_ws/src/demo_cpp_nodes/src/motor_node.cpp:[m[K In member function ‘[01m[Kvoid MotorNode::torque_set(float)[m[K’:
+[2.446s] [01m[K/home/uadmin/learning/learn3/learn3_ws/src/demo_cpp_nodes/src/motor_node.cpp:18:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktorque[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.446s]    18 | void MotorNode::torque_set([01;35m[Kfloat torque[m[K)
+[2.446s]       |                            [01;35m[K~~~~~~^~~~~~[m[K
+[2.860s] [100%] [32m[1mLinking CXX executable motor_node[0m
+[3.002s] [100%] Built target motor_node
+[3.014s] Invoked command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes -- -j2 -l2
+[3.022s] Invoking command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes
+[3.028s] -- Install configuration: ""
+[3.029s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/lib/demo_cpp_nodes/cpp_node
+[3.029s] -- Installing: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/lib/demo_cpp_nodes/motor_node
+[3.030s] -- Set runtime path of "/home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/lib/demo_cpp_nodes/motor_node" to ""
+[3.030s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/ament_index/resource_index/package_run_dependencies/demo_cpp_nodes
+[3.030s] -- Installing: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/ament_index/resource_index/parent_prefix_path/demo_cpp_nodes
+[3.031s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/ament_prefix_path.sh
+[3.031s] -- Installing: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/ament_prefix_path.dsv
+[3.031s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/path.sh
+[3.031s] -- Installing: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/path.dsv
+[3.031s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.bash
+[3.031s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.sh
+[3.031s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.zsh
+[3.033s] -- Installing: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.dsv
+[3.033s] -- Installing: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/package.dsv
+[3.033s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/ament_index/resource_index/packages/demo_cpp_nodes
+[3.033s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/cmake/demo_cpp_nodesConfig.cmake
+[3.033s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/cmake/demo_cpp_nodesConfig-version.cmake
+[3.033s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/package.xml
+[3.036s] Invoked command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes

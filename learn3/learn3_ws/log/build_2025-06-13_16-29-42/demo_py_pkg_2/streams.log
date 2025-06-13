@@ -1,0 +1,26 @@
+[0.456s] Invoking command in '/home/uadmin/learning/learn3/learn3_ws/src/demo_py_pkg_2': PYTHONPATH=/home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_py_pkg_2 build --build-base /home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/build install --record /home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/install.log --single-version-externally-managed install_data
+[0.627s] running egg_info
+[0.629s] writing ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/PKG-INFO
+[0.629s] writing dependency_links to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/dependency_links.txt
+[0.629s] writing entry points to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/entry_points.txt
+[0.629s] writing requirements to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/requires.txt
+[0.629s] writing top-level names to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/top_level.txt
+[0.631s] reading manifest file '../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/SOURCES.txt'
+[0.631s] adding license file 'LICENSE'
+[0.631s] writing manifest file '../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/SOURCES.txt'
+[0.632s] running build
+[0.632s] running build_py
+[0.632s] copying demo_py_pkg_2/motor_node.py -> /home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/build/lib/demo_py_pkg_2
+[0.632s] running install
+[0.632s] running install_lib
+[0.633s] copying /home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/build/lib/demo_py_pkg_2/motor_node.py -> /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages/demo_py_pkg_2
+[0.633s] byte-compiling /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages/demo_py_pkg_2/motor_node.py to motor_node.cpython-310.pyc
+[0.634s] running install_data
+[0.634s] running install_egg_info
+[0.635s] removing '/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages/demo_py_pkg_2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.635s] Copying ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info to /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages/demo_py_pkg_2-0.0.0-py3.10.egg-info
+[0.636s] running install_scripts
+[0.653s] Installing m3508_node script to /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/demo_py_pkg_2
+[0.653s] Installing py_node_3 script to /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/demo_py_pkg_2
+[0.654s] writing list of installed files to '/home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/install.log'
+[0.672s] Invoked command in '/home/uadmin/learning/learn3/learn3_ws/src/demo_py_pkg_2' returned '0': PYTHONPATH=/home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_py_pkg_2 build --build-base /home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/build install --record /home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/install.log --single-version-externally-managed install_data

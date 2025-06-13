@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/PKG-INFO
+writing dependency_links to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/dependency_links.txt
+writing entry points to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/entry_points.txt
+writing requirements to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/requires.txt
+writing top-level names to ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/top_level.txt
+reading manifest file '../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages/demo_py_pkg_2-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/demo_py_pkg_2/demo_py_pkg_2.egg-info to /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/python3.10/site-packages/demo_py_pkg_2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing motor_node script to /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/demo_py_pkg_2
+Installing py_node_3 script to /home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2/lib/demo_py_pkg_2
+writing list of installed files to '/home/uadmin/learning/learn3/learn3_ws/build/demo_py_pkg_2/install.log'

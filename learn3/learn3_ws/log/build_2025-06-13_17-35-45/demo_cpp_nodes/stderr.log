@@ -1,0 +1,4 @@
+[01m[K/home/uadmin/learning/learn3/learn3_ws/src/demo_cpp_nodes/src/motor_node.cpp:[m[K In member function ‘[01m[Kvoid MotorNode::torque_set(float)[m[K’:
+[01m[K/home/uadmin/learning/learn3/learn3_ws/src/demo_cpp_nodes/src/motor_node.cpp:18:34:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktorque[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   18 | void MotorNode::torque_set([01;35m[Kfloat torque[m[K)
+      |                            [01;35m[K~~~~~~^~~~~~[m[K

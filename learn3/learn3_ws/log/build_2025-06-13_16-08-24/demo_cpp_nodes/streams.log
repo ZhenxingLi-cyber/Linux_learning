@@ -1,0 +1,23 @@
+[0.014s] Invoking command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes -- -j2 -l2
+[0.049s] [35m[1mConsolidate compiler generated dependencies of target cpp_node[0m
+[0.069s] [100%] Built target cpp_node
+[0.079s] Invoked command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes -- -j2 -l2
+[0.090s] Invoking command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes
+[0.095s] -- Install configuration: ""
+[0.095s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/lib/demo_cpp_nodes/cpp_node
+[0.096s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/ament_index/resource_index/package_run_dependencies/demo_cpp_nodes
+[0.096s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/ament_index/resource_index/parent_prefix_path/demo_cpp_nodes
+[0.096s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/ament_prefix_path.sh
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/ament_prefix_path.dsv
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/path.sh
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/environment/path.dsv
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.bash
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.sh
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.zsh
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/local_setup.dsv
+[0.097s] -- Installing: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/package.dsv
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/ament_index/resource_index/packages/demo_cpp_nodes
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/cmake/demo_cpp_nodesConfig.cmake
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/cmake/demo_cpp_nodesConfig-version.cmake
+[0.097s] -- Up-to-date: /home/uadmin/learning/learn3/learn3_ws/install/demo_cpp_nodes/share/demo_cpp_nodes/package.xml
+[0.100s] Invoked command in '/home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn3/learn3_ws/install/demo_py_pkg_2:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn3/learn3_ws/build/demo_cpp_nodes
