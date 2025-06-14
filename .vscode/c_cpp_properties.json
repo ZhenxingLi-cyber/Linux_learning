@@ -4,7 +4,9 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/ros/humble/include/**"
+                "/opt/ros/humble/include/**",
+                "/opt/ros/humble/include/turtlesim/**",
+                "/opt/ros/humble/include/rclcpp/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",

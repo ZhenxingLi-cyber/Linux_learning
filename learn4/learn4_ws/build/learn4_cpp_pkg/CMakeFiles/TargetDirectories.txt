@@ -1,0 +1,10 @@
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/uninstall.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/learn4_cpp_pkg_uninstall.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/turtle_cmd_node.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/test.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/edit_cache.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/rebuild_cache.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/list_install_components.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/install.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/install/local.dir
+/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/install/strip.dir

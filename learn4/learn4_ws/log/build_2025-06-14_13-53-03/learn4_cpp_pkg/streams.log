@@ -1,0 +1,9 @@
+[0.018s] Invoking command in '/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg -- -j2 -l2
+[0.052s] [31mCMake Error at CMakeLists.txt:18:
+[0.053s]   Parse error.  Expected a command name, got unquoted argument with text ";".
+[0.053s] 
+[0.053s] [0m
+[0.053s] -- Configuring incomplete, errors occurred!
+[0.053s] See also "/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg/CMakeFiles/CMakeOutput.log".
+[0.057s] gmake: *** [Makefile:267：cmake_check_build_system] 错误 1
+[0.259s] Invoked command in '/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg -- -j2 -l2

@@ -1,0 +1,16 @@
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/lib/learn4_cpp_pkg/turtle_cmd_node
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/learn4_cpp_pkg
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/learn4_cpp_pkg
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/ament_prefix_path.sh
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/ament_prefix_path.dsv
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/path.sh
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/path.dsv
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.bash
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.sh
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.zsh
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.dsv
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/package.dsv
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/ament_index/resource_index/packages/learn4_cpp_pkg
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/cmake/learn4_cpp_pkgConfig.cmake
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/cmake/learn4_cpp_pkgConfig-version.cmake
+/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/package.xml

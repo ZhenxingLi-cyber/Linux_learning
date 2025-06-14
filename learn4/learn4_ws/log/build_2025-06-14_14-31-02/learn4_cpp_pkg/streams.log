@@ -1,0 +1,26 @@
+[0.017s] Invoking command in '/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg -- -j2 -l2
+[0.102s] [35m[1mConsolidate compiler generated dependencies of target turtle_cmd_node[0m
+[0.129s] [ 50%] [32mBuilding CXX object CMakeFiles/turtle_cmd_node.dir/src/turtle_cmd_node.cpp.o[0m
+[3.849s] [100%] [32m[1mLinking CXX executable turtle_cmd_node[0m
+[4.030s] [100%] Built target turtle_cmd_node
+[4.039s] Invoked command in '/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg -- -j2 -l2
+[4.051s] Invoking command in '/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg
+[4.057s] -- Install configuration: ""
+[4.057s] -- Installing: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/lib/learn4_cpp_pkg/turtle_cmd_node
+[4.058s] -- Set runtime path of "/home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/lib/learn4_cpp_pkg/turtle_cmd_node" to ""
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/learn4_cpp_pkg
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/learn4_cpp_pkg
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/ament_prefix_path.sh
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/ament_prefix_path.dsv
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/path.sh
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/environment/path.dsv
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.bash
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.sh
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.zsh
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/local_setup.dsv
+[4.058s] -- Installing: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/package.dsv
+[4.058s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/ament_index/resource_index/packages/learn4_cpp_pkg
+[4.059s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/cmake/learn4_cpp_pkgConfig.cmake
+[4.059s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/cmake/learn4_cpp_pkgConfig-version.cmake
+[4.059s] -- Up-to-date: /home/uadmin/learning/learn4/learn4_ws/install/learn4_cpp_pkg/share/learn4_cpp_pkg/package.xml
+[4.063s] Invoked command in '/home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn4/learn4_ws/build/learn4_cpp_pkg

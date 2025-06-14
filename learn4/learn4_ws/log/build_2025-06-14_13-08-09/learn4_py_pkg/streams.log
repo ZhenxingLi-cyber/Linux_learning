@@ -1,0 +1,34 @@
+[0.917s] Invoking command in '/home/uadmin/learning/learn4/learn4_ws/src/learn4_py_pkg/learn4_py_pkg': PYTHONPATH=/home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learn4_py_pkg build --build-base /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/build install --record /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/install.log --single-version-externally-managed install_data
+[1.901s] running egg_info
+[1.901s] creating ../../../build/learn4_py_pkg/learn4_py_pkg.egg-info
+[1.901s] writing ../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/PKG-INFO
+[1.902s] writing dependency_links to ../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/dependency_links.txt
+[1.902s] writing entry points to ../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/entry_points.txt
+[1.902s] writing requirements to ../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/requires.txt
+[1.902s] writing top-level names to ../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/top_level.txt
+[1.902s] writing manifest file '../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/SOURCES.txt'
+[1.904s] reading manifest file '../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/SOURCES.txt'
+[1.905s] adding license file 'LICENSE'
+[1.905s] writing manifest file '../../../build/learn4_py_pkg/learn4_py_pkg.egg-info/SOURCES.txt'
+[1.905s] running build
+[1.905s] running build_py
+[1.905s] creating /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/build
+[1.905s] creating /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/build/lib
+[1.906s] creating /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/build/lib/learn4_py_pkg
+[1.906s] copying learn4_py_pkg/__init__.py -> /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/build/lib/learn4_py_pkg
+[1.907s] running install
+[1.907s] running install_lib
+[1.907s] creating /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/lib/python3.10/site-packages/learn4_py_pkg
+[1.907s] copying /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/build/lib/learn4_py_pkg/__init__.py -> /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/lib/python3.10/site-packages/learn4_py_pkg
+[1.907s] byte-compiling /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/lib/python3.10/site-packages/learn4_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.907s] running install_data
+[1.908s] creating /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/share/ament_index
+[1.908s] creating /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/share/ament_index/resource_index
+[1.908s] creating /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/share/ament_index/resource_index/packages
+[1.908s] copying resource/learn4_py_pkg -> /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/share/ament_index/resource_index/packages
+[1.908s] copying package.xml -> /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/share/learn4_py_pkg
+[1.908s] running install_egg_info
+[1.909s] Copying ../../../build/learn4_py_pkg/learn4_py_pkg.egg-info to /home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/lib/python3.10/site-packages/learn4_py_pkg-0.0.0-py3.10.egg-info
+[1.910s] running install_scripts
+[1.931s] writing list of installed files to '/home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/install.log'
+[1.952s] Invoked command in '/home/uadmin/learning/learn4/learn4_ws/src/learn4_py_pkg/learn4_py_pkg' returned '0': PYTHONPATH=/home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn4/learn4_ws/install/learn4_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learn4_py_pkg build --build-base /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/build install --record /home/uadmin/learning/learn4/learn4_ws/build/learn4_py_pkg/install.log --single-version-externally-managed install_data
