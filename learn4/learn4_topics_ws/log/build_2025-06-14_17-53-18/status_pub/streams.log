@@ -1,0 +1,22 @@
+[0.548s] Invoking command in '/home/uadmin/learning/learn4/learn4_topics_ws/src/status_pub': AMENT_PREFIX_PATH=/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces LD_LIBRARY_PATH=/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages:/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/status_pub build --build-base /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/build install --record /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/install.log --single-version-externally-managed install_data
+[0.759s] running egg_info
+[0.760s] writing ../../build/status_pub/status_pub.egg-info/PKG-INFO
+[0.760s] writing dependency_links to ../../build/status_pub/status_pub.egg-info/dependency_links.txt
+[0.760s] writing entry points to ../../build/status_pub/status_pub.egg-info/entry_points.txt
+[0.761s] writing requirements to ../../build/status_pub/status_pub.egg-info/requires.txt
+[0.761s] writing top-level names to ../../build/status_pub/status_pub.egg-info/top_level.txt
+[0.763s] reading manifest file '../../build/status_pub/status_pub.egg-info/SOURCES.txt'
+[0.764s] adding license file 'LICENSE'
+[0.764s] writing manifest file '../../build/status_pub/status_pub.egg-info/SOURCES.txt'
+[0.764s] running build
+[0.765s] running build_py
+[0.765s] running install
+[0.765s] running install_lib
+[0.766s] running install_data
+[0.766s] running install_egg_info
+[0.769s] removing '/home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages/status_pub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.769s] Copying ../../build/status_pub/status_pub.egg-info to /home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages/status_pub-0.0.0-py3.10.egg-info
+[0.771s] running install_scripts
+[0.786s] Installing status_pub_node script to /home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/status_pub
+[0.787s] writing list of installed files to '/home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/install.log'
+[0.804s] Invoked command in '/home/uadmin/learning/learn4/learn4_topics_ws/src/status_pub' returned '0': AMENT_PREFIX_PATH=/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces LD_LIBRARY_PATH=/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages:/home/uadmin/learning/learn4/learn4_topics_ws/install/status_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/status_pub build --build-base /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/build install --record /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/install.log --single-version-externally-managed install_data

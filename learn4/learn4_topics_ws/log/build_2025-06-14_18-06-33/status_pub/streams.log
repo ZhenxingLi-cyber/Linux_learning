@@ -1,0 +1,25 @@
+[0.458s] Invoking command in '/home/uadmin/learning/learn4/learn4_topics_ws/src/status_pub': PYTHONPATH=/home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/status_pub build --build-base /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/build install --record /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/install.log --single-version-externally-managed install_data
+[0.628s] running egg_info
+[0.629s] writing ../../build/status_pub/status_pub.egg-info/PKG-INFO
+[0.629s] writing dependency_links to ../../build/status_pub/status_pub.egg-info/dependency_links.txt
+[0.629s] writing entry points to ../../build/status_pub/status_pub.egg-info/entry_points.txt
+[0.629s] writing requirements to ../../build/status_pub/status_pub.egg-info/requires.txt
+[0.629s] writing top-level names to ../../build/status_pub/status_pub.egg-info/top_level.txt
+[0.631s] reading manifest file '../../build/status_pub/status_pub.egg-info/SOURCES.txt'
+[0.631s] adding license file 'LICENSE'
+[0.631s] writing manifest file '../../build/status_pub/status_pub.egg-info/SOURCES.txt'
+[0.631s] running build
+[0.631s] running build_py
+[0.631s] copying status_pub/status_pub_node.py -> /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/build/lib/status_pub
+[0.632s] running install
+[0.632s] running install_lib
+[0.632s] copying /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/build/lib/status_pub/status_pub_node.py -> /home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages/status_pub
+[0.633s] byte-compiling /home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages/status_pub/status_pub_node.py to status_pub_node.cpython-310.pyc
+[0.633s] running install_data
+[0.633s] running install_egg_info
+[0.635s] removing '/home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages/status_pub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.638s] Copying ../../build/status_pub/status_pub.egg-info to /home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages/status_pub-0.0.0-py3.10.egg-info
+[0.638s] running install_scripts
+[0.653s] Installing status_pub_node script to /home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/status_pub
+[0.654s] writing list of installed files to '/home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/install.log'
+[0.669s] Invoked command in '/home/uadmin/learning/learn4/learn4_topics_ws/src/status_pub' returned '0': PYTHONPATH=/home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn4/learn4_topics_ws/install/status_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/status_pub build --build-base /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/build install --record /home/uadmin/learning/learn4/learn4_topics_ws/build/status_pub/install.log --single-version-externally-managed install_data

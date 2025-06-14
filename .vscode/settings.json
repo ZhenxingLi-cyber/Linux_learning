@@ -72,5 +72,8 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp"
-    }
+    },
+    "python.analysis.extraPaths": [
+        "./learn4/learn4_topic_ws/install/status_interfaces/local/lib/python3.10/dist-packages"
+    ]
 }

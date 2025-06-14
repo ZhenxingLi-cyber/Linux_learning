@@ -1,0 +1,6 @@
+{
+  "package_name": "status_interfaces",
+  "non_idl_tuples": [
+    "/home/uadmin/learning/learn4/learn4_topics_ws/src/status_interfaces:msg/SystemStatus.msg"
+  ]
+}
