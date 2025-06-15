@@ -1,0 +1,3 @@
+[console_scripts]
+face_recog_node = learn5_service.face_recog_node:main
+

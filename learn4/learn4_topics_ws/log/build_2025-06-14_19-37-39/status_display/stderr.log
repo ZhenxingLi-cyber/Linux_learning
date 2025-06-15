@@ -1,0 +1,7 @@
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:2:10:[m[K [01;31m[Kfatal error: [m[KQLable: 没有那个文件或目录
+    2 | #include [01;31m[K<QLable>[m[K
+      |          [01;31m[K^~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/qt_hello.dir/build.make:76：CMakeFiles/qt_hello.dir/src/qt_hello.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/qt_hello.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

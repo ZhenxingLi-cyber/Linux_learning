@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target qt_hello[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/qt_hello.dir/src/qt_hello.cpp.o[0m
+[100%] [32m[1mLinking CXX executable qt_hello[0m
+[100%] Built target qt_hello
+-- Install configuration: ""
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/lib/status_display/qt_hello
+-- Set runtime path of "/home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/lib/status_display/qt_hello" to ""
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/ament_index/resource_index/package_run_dependencies/status_display
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/ament_index/resource_index/parent_prefix_path/status_display
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/ament_prefix_path.sh
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/path.sh
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/path.dsv
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.bash
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.sh
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.zsh
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.dsv
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/package.dsv
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/ament_index/resource_index/packages/status_display
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/cmake/status_displayConfig.cmake
+-- Up-to-date: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/cmake/status_displayConfig-version.cmake
+-- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/package.xml

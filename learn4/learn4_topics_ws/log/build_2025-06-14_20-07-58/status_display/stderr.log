@@ -1,0 +1,4 @@
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:[m[K In member function ‘[01m[Kvoid QtDisplayNode::status_rec_callback(status_interfaces::msg::SystemStatus)[m[K’:
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:21:84:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ksys_status[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   21 | void QtDisplayNode::status_rec_callback([01;35m[Kconst status_interfaces::msg::SystemStatus sys_status[m[K)
+      |                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K

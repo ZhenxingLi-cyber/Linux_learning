@@ -1,0 +1,26 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from learn5_interface/srv/FaceInfo.srv
+// generated code does not contain a copyright notice
+
+#include "sensor_msgs/msg/Image.idl"
+
+module learn5_interface {
+  module srv {
+    struct FaceInfo_Request {
+      sensor_msgs::msg::Image img;
+    };
+    struct FaceInfo_Response {
+      int16 num;
+
+      float time_used;
+
+      sequence<int32> top;
+
+      sequence<int32> bottom;
+
+      sequence<int32> right;
+
+      sequence<int32> left;
+    };
+  };
+};

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "learn5_interface__py",
+		"source" : "/home/uadmin/learning/learn5/learn5_ws/build/learn5_interface/learn5_interface__py"
+	}
+}

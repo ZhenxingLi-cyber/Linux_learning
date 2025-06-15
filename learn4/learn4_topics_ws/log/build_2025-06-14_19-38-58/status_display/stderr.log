@@ -1,0 +1,8 @@
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:12:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass QApplication[m[K’ has no member named ‘[01m[Kexecu[m[K’; did you mean ‘[01m[Kexec[m[K’?
+   12 |     app.[01;31m[Kexecu[m[K();
+      |         [01;31m[K^~~~~[m[K
+      |         [32m[Kexec[m[K
+gmake[2]: *** [CMakeFiles/qt_hello.dir/build.make:76：CMakeFiles/qt_hello.dir/src/qt_hello.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/qt_hello.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2

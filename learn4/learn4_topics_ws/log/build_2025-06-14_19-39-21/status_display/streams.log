@@ -1,0 +1,25 @@
+[0.016s] Invoking command in '/home/uadmin/learning/learn4/learn4_topics_ws/build/status_display': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn4/learn4_topics_ws/build/status_display -- -j2 -l2
+[0.117s] [35m[1mConsolidate compiler generated dependencies of target qt_hello[0m
+[0.160s] [ 50%] [32mBuilding CXX object CMakeFiles/qt_hello.dir/src/qt_hello.cpp.o[0m
+[1.571s] [100%] [32m[1mLinking CXX executable qt_hello[0m
+[1.926s] [100%] Built target qt_hello
+[1.949s] Invoked command in '/home/uadmin/learning/learn4/learn4_topics_ws/build/status_display' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn4/learn4_topics_ws/build/status_display -- -j2 -l2
+[1.949s] Invoking command in '/home/uadmin/learning/learn4/learn4_topics_ws/build/status_display': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn4/learn4_topics_ws/build/status_display
+[1.962s] -- Install configuration: ""
+[1.962s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/lib/status_display/qt_hello
+[1.963s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/ament_index/resource_index/package_run_dependencies/status_display
+[1.963s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/ament_index/resource_index/parent_prefix_path/status_display
+[1.964s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/ament_prefix_path.sh
+[1.964s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/ament_prefix_path.dsv
+[1.964s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/path.sh
+[1.965s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/environment/path.dsv
+[1.965s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.bash
+[1.965s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.sh
+[1.966s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.zsh
+[1.966s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/local_setup.dsv
+[1.967s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/package.dsv
+[1.967s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/ament_index/resource_index/packages/status_display
+[1.968s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/cmake/status_displayConfig.cmake
+[1.969s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/cmake/status_displayConfig-version.cmake
+[1.969s] -- Installing: /home/uadmin/learning/learn4/learn4_topics_ws/install/status_display/share/status_display/package.xml
+[1.972s] Invoked command in '/home/uadmin/learning/learn4/learn4_topics_ws/build/status_display' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn4/learn4_topics_ws/build/status_display

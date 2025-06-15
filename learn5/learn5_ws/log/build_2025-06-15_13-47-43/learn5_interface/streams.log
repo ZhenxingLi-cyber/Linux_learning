@@ -1,0 +1,224 @@
+[0.019s] Invoking command in '/home/uadmin/learning/learn5/learn5_ws/build/learn5_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/uadmin/learning/learn5/learn5_ws/src/learn5_interface -DCMAKE_INSTALL_PREFIX=/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface
+[0.038s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.190s] -- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.211s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.211s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.215s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.236s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.252s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.298s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.635s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.085s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.290s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.315s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.317s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.341s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.341s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.341s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.341s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.359s] -- Found PythonExtra: .so  
+[2.423s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.454s] -- Added test 'lint_cmake' to check CMake code style
+[2.455s] -- Added test 'xmllint' to check XML markup files
+[2.459s] -- Configuring done
+[2.490s] -- Generating done
+[2.504s] -- Build files have been written to: /home/uadmin/learning/learn5/learn5_ws/build/learn5_interface
+[2.509s] Invoked command in '/home/uadmin/learning/learn5/learn5_ws/build/learn5_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/uadmin/learning/learn5/learn5_ws/src/learn5_interface -DCMAKE_INSTALL_PREFIX=/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface
+[2.509s] Invoking command in '/home/uadmin/learning/learn5/learn5_ws/build/learn5_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn5/learn5_ws/build/learn5_interface -- -j2 -l2
+[2.543s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.557s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.845s] [  6%] Built target learn5_interface__cpp
+[2.871s] [  6%] Built target ament_cmake_python_copy_learn5_interface
+[2.893s] [  9%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[2.938s] [ 12%] [32mBuilding C object CMakeFiles/learn5_interface__rosidl_generator_c.dir/rosidl_generator_c/learn5_interface/srv/detail/face_info__functions.c.o[0m
+[3.019s] [ 16%] [32m[1mLinking C shared library liblearn5_interface__rosidl_generator_c.so[0m
+[3.097s] [ 16%] Built target learn5_interface__rosidl_generator_c
+[3.109s] [ 19%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[3.178s] [ 22%] [32mBuilding CXX object CMakeFiles/learn5_interface__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/learn5_interface/srv/face_info__type_support.cpp.o[0m
+[3.528s] [ 25%] [32mBuilding CXX object CMakeFiles/learn5_interface__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/learn5_interface/srv/detail/dds_fastrtps/face_info__type_support.cpp.o[0m
+[3.670s] [ 29%] [32m[1mLinking CXX shared library liblearn5_interface__rosidl_typesupport_cpp.so[0m
+[3.770s] [ 29%] Built target learn5_interface__rosidl_typesupport_cpp
+[3.796s] [ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[4.182s] [ 35%] [32mBuilding C object CMakeFiles/learn5_interface__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/learn5_interface/srv/detail/face_info__type_support.c.o[0m
+[4.198s] [ 38%] [32m[1mLinking CXX shared library liblearn5_interface__rosidl_typesupport_fastrtps_cpp.so[0m
+[4.280s] [ 41%] [32m[1mLinking C shared library liblearn5_interface__rosidl_typesupport_introspection_c.so[0m
+[4.337s] [ 41%] Built target learn5_interface__rosidl_typesupport_fastrtps_cpp
+[4.340s] [ 45%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[4.357s] [ 45%] Built target learn5_interface__rosidl_typesupport_introspection_c
+[4.369s] [ 48%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[4.663s] [ 51%] [32mBuilding CXX object CMakeFiles/learn5_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/learn5_interface/srv/detail/face_info__type_support.cpp.o[0m
+[4.664s] [ 54%] [32mBuilding CXX object CMakeFiles/learn5_interface__rosidl_typesupport_c.dir/rosidl_typesupport_c/learn5_interface/srv/face_info__type_support.cpp.o[0m
+[4.716s] [ 58%] [32m[1mLinking CXX shared library liblearn5_interface__rosidl_typesupport_c.so[0m
+[4.760s] [ 58%] Built target learn5_interface__rosidl_typesupport_c
+[5.010s] running egg_info
+[5.012s] creating learn5_interface.egg-info
+[5.012s] writing learn5_interface.egg-info/PKG-INFO
+[5.012s] writing dependency_links to learn5_interface.egg-info/dependency_links.txt
+[5.013s] writing top-level names to learn5_interface.egg-info/top_level.txt
+[5.013s] writing manifest file 'learn5_interface.egg-info/SOURCES.txt'
+[5.016s] reading manifest file 'learn5_interface.egg-info/SOURCES.txt'
+[5.018s] writing manifest file 'learn5_interface.egg-info/SOURCES.txt'
+[5.058s] [ 58%] Built target ament_cmake_python_build_learn5_interface_egg
+[5.079s] [ 61%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.322s] [ 64%] [32m[1mLinking CXX shared library liblearn5_interface__rosidl_typesupport_introspection_cpp.so[0m
+[5.478s] [ 64%] Built target learn5_interface__rosidl_typesupport_introspection_cpp
+[5.481s] [ 67%] [32mBuilding CXX object CMakeFiles/learn5_interface__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/learn5_interface/srv/detail/face_info__type_support_c.cpp.o[0m
+[5.787s] [ 70%] [32m[1mLinking CXX shared library liblearn5_interface__rosidl_typesupport_fastrtps_c.so[0m
+[5.865s] [ 70%] Built target learn5_interface__rosidl_typesupport_fastrtps_c
+[5.882s] [ 70%] Built target learn5_interface
+[5.906s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[6.246s] [ 74%] Built target learn5_interface__py
+[6.273s] [ 77%] [32mBuilding C object CMakeFiles/learn5_interface__rosidl_generator_py.dir/rosidl_generator_py/learn5_interface/srv/_face_info_s.c.o[0m
+[6.468s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/learn5_interface/liblearn5_interface__rosidl_generator_py.so[0m
+[6.529s] [ 80%] Built target learn5_interface__rosidl_generator_py
+[6.562s] [ 83%] [32mBuilding C object CMakeFiles/learn5_interface__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/learn5_interface/_learn5_interface_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[6.564s] [ 87%] [32mBuilding C object CMakeFiles/learn5_interface__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/learn5_interface/_learn5_interface_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[6.708s] [ 90%] [32m[1mLinking C shared library rosidl_generator_py/learn5_interface/learn5_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.766s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/learn5_interface/learn5_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.775s] [ 93%] Built target learn5_interface__rosidl_typesupport_introspection_c__pyext
+[6.810s] [ 96%] [32mBuilding C object CMakeFiles/learn5_interface__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/learn5_interface/_learn5_interface_s.ep.rosidl_typesupport_c.c.o[0m
+[6.851s] [ 96%] Built target learn5_interface__rosidl_typesupport_fastrtps_c__pyext
+[6.926s] [100%] [32m[1mLinking C shared library rosidl_generator_py/learn5_interface/learn5_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[6.977s] [100%] Built target learn5_interface__rosidl_typesupport_c__pyext
+[6.990s] Invoked command in '/home/uadmin/learning/learn5/learn5_ws/build/learn5_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/uadmin/learning/learn5/learn5_ws/build/learn5_interface -- -j2 -l2
+[7.004s] Invoking command in '/home/uadmin/learning/learn5/learn5_ws/build/learn5_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn5/learn5_ws/build/learn5_interface
+[7.019s] -- Install configuration: ""
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/ament_index/resource_index/rosidl_interfaces/learn5_interface
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/face_info.h
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__functions.h
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__type_support.h
+[7.019s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__functions.c
+[7.020s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__struct.h
+[7.020s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg
+[7.020s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg/rosidl_generator_c__visibility_control.h
+[7.020s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/library_path.sh
+[7.020s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/library_path.dsv
+[7.020s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_generator_c.so
+[7.020s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_generator_c.so" to ""
+[7.021s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface
+[7.021s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv
+[7.021s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail
+[7.022s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__rosidl_typesupport_fastrtps_c.h
+[7.022s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg
+[7.022s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[7.022s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_fastrtps_c.so
+[7.022s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_fastrtps_c.so" to ""
+[7.022s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface
+[7.022s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv
+[7.022s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/face_info.hpp
+[7.022s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail
+[7.022s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__struct.hpp
+[7.022s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__builder.hpp
+[7.025s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__traits.hpp
+[7.025s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__type_support.hpp
+[7.025s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg
+[7.025s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[7.025s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface
+[7.025s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv
+[7.025s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail
+[7.025s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/dds_fastrtps
+[7.025s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__rosidl_typesupport_fastrtps_cpp.hpp
+[7.025s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg
+[7.025s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[7.025s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_fastrtps_cpp.so
+[7.025s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_fastrtps_cpp.so" to ""
+[7.025s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface
+[7.026s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv
+[7.026s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail
+[7.026s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__type_support.c
+[7.026s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__rosidl_typesupport_introspection_c.h
+[7.026s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg
+[7.026s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[7.026s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_introspection_c.so
+[7.026s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_introspection_c.so" to ""
+[7.028s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_c.so
+[7.028s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_c.so" to ""
+[7.028s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface
+[7.028s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv
+[7.028s] -- Up-to-date: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail
+[7.028s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__rosidl_typesupport_introspection_cpp.hpp
+[7.028s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/include/learn5_interface/learn5_interface/srv/detail/face_info__type_support.cpp
+[7.028s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_introspection_cpp.so
+[7.030s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_introspection_cpp.so" to ""
+[7.030s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_cpp.so
+[7.031s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_typesupport_cpp.so" to ""
+[7.031s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/pythonpath.sh
+[7.031s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/pythonpath.dsv
+[7.031s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface-0.0.0-py3.10.egg-info
+[7.031s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[7.031s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface-0.0.0-py3.10.egg-info/top_level.txt
+[7.031s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[7.031s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[7.032s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface
+[7.032s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/_learn5_interface_s.ep.rosidl_typesupport_c.c
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/srv
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/srv/_face_info.py
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/srv/_face_info_s.c
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/srv/__init__.py
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/_learn5_interface_s.ep.rosidl_typesupport_introspection_c.c
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/liblearn5_interface__rosidl_generator_py.so
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/_learn5_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/__init__.py
+[7.034s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.079s] Listing '/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface'...
+[7.080s] Compiling '/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/__init__.py'...
+[7.080s] Listing '/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/srv'...
+[7.080s] Compiling '/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/srv/__init__.py'...
+[7.081s] Compiling '/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/srv/_face_info.py'...
+[7.083s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[7.083s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[7.084s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[7.084s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[7.084s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[7.085s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/local/lib/python3.10/dist-packages/learn5_interface/learn5_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[7.085s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_generator_py.so
+[7.086s] -- Set runtime path of "/home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/lib/liblearn5_interface__rosidl_generator_py.so" to ""
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/srv/FaceInfo.idl
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/srv/FaceInfo.srv
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/srv/FaceInfo_Request.msg
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/srv/FaceInfo_Response.msg
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/ament_index/resource_index/package_run_dependencies/learn5_interface
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/ament_index/resource_index/parent_prefix_path/learn5_interface
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/ament_prefix_path.sh
+[7.086s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/ament_prefix_path.dsv
+[7.087s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/path.sh
+[7.087s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/environment/path.dsv
+[7.087s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/local_setup.bash
+[7.087s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/local_setup.sh
+[7.087s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/local_setup.zsh
+[7.087s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/local_setup.dsv
+[7.088s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/package.dsv
+[7.088s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/ament_index/resource_index/packages/learn5_interface
+[7.088s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_generator_cExport.cmake
+[7.088s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_generator_cExport-noconfig.cmake
+[7.088s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[7.088s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[7.088s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_generator_cppExport.cmake
+[7.089s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[7.089s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[7.089s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_introspection_cExport.cmake
+[7.089s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[7.090s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_cExport.cmake
+[7.090s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_cExport-noconfig.cmake
+[7.090s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_introspection_cppExport.cmake
+[7.091s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_cppExport.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_generator_pyExport.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/export_learn5_interface__rosidl_generator_pyExport-noconfig.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/rosidl_cmake-extras.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/ament_cmake_export_targets-extras.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interfaceConfig.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/cmake/learn5_interfaceConfig-version.cmake
+[7.092s] -- Installing: /home/uadmin/learning/learn5/learn5_ws/install/learn5_interface/share/learn5_interface/package.xml
+[7.100s] Invoked command in '/home/uadmin/learning/learn5/learn5_ws/build/learn5_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/uadmin/learning/learn5/learn5_ws/build/learn5_interface

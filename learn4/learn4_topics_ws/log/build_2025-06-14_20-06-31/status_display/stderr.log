@@ -1,0 +1,21 @@
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/client.hpp:40[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:4[m[K:
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:[m[K In member function ‘[01m[Kvoid QtDisplayNode::status_rec_callback(status_interfaces::msg::SystemStatus)[m[K’:
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:24:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[Kdo[m[K’
+   24 |     [01;31m[KRCLCPP_INFO[m[K(this->get_logger(),str_sys_status.c_str());
+      |     [01;31m[K^~~~~~~~~~~[m[K
+[01m[K/home/uadmin/learning/learn4/learn4_topics_ws/src/status_display/src/qt_hello.cpp:21:84:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ksys_status[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   21 | void QtDisplayNode::status_rec_callback([01;35m[Kconst status_interfaces::msg::SystemStatus sys_status[m[K)
+      |                                         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/qt_hello.dir/build.make:76：CMakeFiles/qt_hello.dir/src/qt_hello.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/qt_hello.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2
