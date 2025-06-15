@@ -15,6 +15,10 @@ public:
         {
             RCLCPP_INFO(this->get_logger(),"requested");
             response->l1_norm=0;
+            for(auto num : request->x)
+            {
+                response->l1_norm+=num;
+            }
             response->l2_norm=0;
         });
     }

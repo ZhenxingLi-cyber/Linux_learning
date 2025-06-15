@@ -1,0 +1,16 @@
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/lib/learn5_cpp_client/learn5_cpp_client_node
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/ament_index/resource_index/package_run_dependencies/learn5_cpp_client
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/ament_index/resource_index/parent_prefix_path/learn5_cpp_client
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/environment/ament_prefix_path.sh
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/environment/ament_prefix_path.dsv
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/environment/path.sh
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/environment/path.dsv
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/local_setup.bash
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/local_setup.sh
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/local_setup.zsh
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/local_setup.dsv
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/package.dsv
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/ament_index/resource_index/packages/learn5_cpp_client
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/cmake/learn5_cpp_clientConfig.cmake
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/cmake/learn5_cpp_clientConfig-version.cmake
+/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_client/share/learn5_cpp_client/package.xml

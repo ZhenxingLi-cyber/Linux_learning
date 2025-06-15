@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-8d0d8c822336117dff43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learn5_cpp_client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_client_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_client_node-86f7bbbd83302d00f476.json",
+					"name" : "learn5_cpp_client_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_client_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_client_uninstall-c2e2218c3c09e94e7f16.json",
+					"name" : "learn5_cpp_client_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a40a1232352b4d3d4da5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_client",
+		"source" : "/home/uadmin/learning/learn5/learn5_cpp_ws/src/learn5_cpp_client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
