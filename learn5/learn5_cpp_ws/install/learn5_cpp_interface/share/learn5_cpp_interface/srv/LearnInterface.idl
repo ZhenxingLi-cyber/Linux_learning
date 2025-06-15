@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from learn5_cpp_interface/srv/LearnInterface.srv
+// generated code does not contain a copyright notice
+
+
+module learn5_cpp_interface {
+  module srv {
+    struct LearnInterface_Request {
+      sequence<float> x;
+    };
+    struct LearnInterface_Response {
+      float l1_norm;
+
+      float l2_norm;
+    };
+  };
+};

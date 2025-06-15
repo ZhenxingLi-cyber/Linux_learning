@@ -1,0 +1,4 @@
+source;share/learn5_cpp_interface/local_setup.bash
+source;share/learn5_cpp_interface/local_setup.dsv
+source;share/learn5_cpp_interface/local_setup.sh
+source;share/learn5_cpp_interface/local_setup.zsh

@@ -1,0 +1,26 @@
+[35m[1mConsolidate compiler generated dependencies of target learn5_cpp_server_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/learn5_cpp_server_node.dir/src/main.cpp.o[0m
+[01m[K/home/uadmin/learning/learn5/learn5_cpp_ws/src/learn5_cpp_server/src/main.cpp:[m[K In lambda function:
+[01m[K/home/uadmin/learning/learn5/learn5_cpp_ws/src/learn5_cpp_server/src/main.cpp:13:81:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   13 |         [&]([01;35m[Kconst learn5_cpp_interface::srv::LearnInterface::Request::SharedPtr request[m[K,
+      |             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable learn5_cpp_server_node[0m
+[100%] Built target learn5_cpp_server_node
+-- Install configuration: ""
+-- Installing: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/lib/learn5_cpp_server/learn5_cpp_server_node
+-- Set runtime path of "/home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/lib/learn5_cpp_server/learn5_cpp_server_node" to ""
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/ament_index/resource_index/package_run_dependencies/learn5_cpp_server
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/ament_index/resource_index/parent_prefix_path/learn5_cpp_server
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/environment/ament_prefix_path.sh
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/environment/path.sh
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/environment/path.dsv
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/local_setup.bash
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/local_setup.sh
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/local_setup.zsh
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/local_setup.dsv
+-- Installing: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/package.dsv
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/ament_index/resource_index/packages/learn5_cpp_server
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/cmake/learn5_cpp_serverConfig.cmake
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/cmake/learn5_cpp_serverConfig-version.cmake
+-- Up-to-date: /home/uadmin/learning/learn5/learn5_cpp_ws/install/learn5_cpp_server/share/learn5_cpp_server/package.xml

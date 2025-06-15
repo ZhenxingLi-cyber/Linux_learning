@@ -1,0 +1,25 @@
+[0.819s] Invoking command in '/home/uadmin/learning/learn5/learn5_ws/src/learn5_client': PYTHONPATH=/home/uadmin/learning/learn5/learn5_ws/build/learn5_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learn5_client build --build-base /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build install --record /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/install.log --single-version-externally-managed install_data
+[1.039s] running egg_info
+[1.041s] writing ../../build/learn5_client/learn5_client.egg-info/PKG-INFO
+[1.042s] writing dependency_links to ../../build/learn5_client/learn5_client.egg-info/dependency_links.txt
+[1.043s] writing entry points to ../../build/learn5_client/learn5_client.egg-info/entry_points.txt
+[1.043s] writing requirements to ../../build/learn5_client/learn5_client.egg-info/requires.txt
+[1.046s] writing top-level names to ../../build/learn5_client/learn5_client.egg-info/top_level.txt
+[1.050s] reading manifest file '../../build/learn5_client/learn5_client.egg-info/SOURCES.txt'
+[1.050s] adding license file 'LICENSE'
+[1.050s] writing manifest file '../../build/learn5_client/learn5_client.egg-info/SOURCES.txt'
+[1.051s] running build
+[1.051s] running build_py
+[1.051s] copying learn5_client/face_supply_node.py -> /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib/learn5_client
+[1.052s] running install
+[1.053s] running install_lib
+[1.056s] copying /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib/learn5_client/face_supply_node.py -> /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client
+[1.057s] byte-compiling /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client/face_supply_node.py to face_supply_node.cpython-310.pyc
+[1.059s] running install_data
+[1.059s] running install_egg_info
+[1.066s] removing '/home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client-0.0.0-py3.10.egg-info' (and everything under it)
+[1.067s] Copying ../../build/learn5_client/learn5_client.egg-info to /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client-0.0.0-py3.10.egg-info
+[1.068s] running install_scripts
+[1.091s] Installing face_supply_node script to /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/learn5_client
+[1.093s] writing list of installed files to '/home/uadmin/learning/learn5/learn5_ws/build/learn5_client/install.log'
+[1.109s] Invoked command in '/home/uadmin/learning/learn5/learn5_ws/src/learn5_client' returned '0': PYTHONPATH=/home/uadmin/learning/learn5/learn5_ws/build/learn5_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learn5_client build --build-base /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build install --record /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/install.log --single-version-externally-managed install_data

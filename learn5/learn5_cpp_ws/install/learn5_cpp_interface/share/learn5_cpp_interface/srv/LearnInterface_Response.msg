@@ -1,0 +1,3 @@
+
+float32 l1_norm
+float32 l2_norm

@@ -1,0 +1,3 @@
+[console_scripts]
+face_supply_node = learn5_client.face_supply_node:main
+

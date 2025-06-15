@@ -1,0 +1,10 @@
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/uninstall.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/learn5_cpp_server_uninstall.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/learn5_cpp_server_node.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/test.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/edit_cache.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/rebuild_cache.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/list_install_components.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/install.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/install/local.dir
+/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_server/CMakeFiles/install/strip.dir

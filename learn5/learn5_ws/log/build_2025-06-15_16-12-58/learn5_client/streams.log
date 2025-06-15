@@ -1,0 +1,40 @@
+[0.722s] Invoking command in '/home/uadmin/learning/learn5/learn5_ws/src/learn5_client': PYTHONPATH=/home/uadmin/learning/learn5/learn5_ws/build/learn5_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learn5_client build --build-base /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build install --record /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/install.log --single-version-externally-managed install_data
+[0.932s] running egg_info
+[0.933s] creating ../../build/learn5_client/learn5_client.egg-info
+[0.933s] writing ../../build/learn5_client/learn5_client.egg-info/PKG-INFO
+[0.933s] writing dependency_links to ../../build/learn5_client/learn5_client.egg-info/dependency_links.txt
+[0.933s] writing entry points to ../../build/learn5_client/learn5_client.egg-info/entry_points.txt
+[0.934s] writing requirements to ../../build/learn5_client/learn5_client.egg-info/requires.txt
+[0.934s] writing top-level names to ../../build/learn5_client/learn5_client.egg-info/top_level.txt
+[0.934s] writing manifest file '../../build/learn5_client/learn5_client.egg-info/SOURCES.txt'
+[0.935s] reading manifest file '../../build/learn5_client/learn5_client.egg-info/SOURCES.txt'
+[0.935s] adding license file 'LICENSE'
+[0.935s] writing manifest file '../../build/learn5_client/learn5_client.egg-info/SOURCES.txt'
+[0.935s] running build
+[0.935s] running build_py
+[0.936s] creating /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build
+[0.936s] creating /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib
+[0.936s] creating /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib/learn5_client
+[0.936s] copying learn5_client/face_supply_node.py -> /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib/learn5_client
+[0.936s] copying learn5_client/__init__.py -> /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib/learn5_client
+[0.936s] running install
+[0.937s] running install_lib
+[0.937s] creating /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client
+[0.937s] copying /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib/learn5_client/face_supply_node.py -> /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client
+[0.937s] copying /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build/lib/learn5_client/__init__.py -> /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client
+[0.937s] byte-compiling /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client/face_supply_node.py to face_supply_node.cpython-310.pyc
+[0.937s] byte-compiling /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client/__init__.py to __init__.cpython-310.pyc
+[0.938s] running install_data
+[0.938s] creating /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/share/ament_index
+[0.938s] creating /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/share/ament_index/resource_index
+[0.938s] creating /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/share/ament_index/resource_index/packages
+[0.938s] copying resource/learn5_client -> /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/share/ament_index/resource_index/packages
+[0.938s] copying package.xml -> /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/share/learn5_client
+[0.938s] creating /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/share/learn5_client/resource
+[0.938s] copying resource/image.png -> /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/share/learn5_client/resource
+[0.944s] running install_egg_info
+[0.945s] Copying ../../build/learn5_client/learn5_client.egg-info to /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages/learn5_client-0.0.0-py3.10.egg-info
+[0.945s] running install_scripts
+[0.975s] Installing face_supply_node script to /home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/learn5_client
+[0.976s] writing list of installed files to '/home/uadmin/learning/learn5/learn5_ws/build/learn5_client/install.log'
+[0.990s] Invoked command in '/home/uadmin/learning/learn5/learn5_ws/src/learn5_client' returned '0': PYTHONPATH=/home/uadmin/learning/learn5/learn5_ws/build/learn5_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn5/learn5_ws/install/learn5_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learn5_client build --build-base /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/build install --record /home/uadmin/learning/learn5/learn5_ws/build/learn5_client/install.log --single-version-externally-managed install_data

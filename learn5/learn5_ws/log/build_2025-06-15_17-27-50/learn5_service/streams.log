@@ -1,0 +1,25 @@
+[0.762s] Invoking command in '/home/uadmin/learning/learn5/learn5_ws/src/learn5_service': PYTHONPATH=/home/uadmin/learning/learn5/learn5_ws/build/learn5_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn5/learn5_ws/install/learn5_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learn5_service build --build-base /home/uadmin/learning/learn5/learn5_ws/build/learn5_service/build install --record /home/uadmin/learning/learn5/learn5_ws/build/learn5_service/install.log --single-version-externally-managed install_data
+[0.995s] running egg_info
+[0.999s] writing ../../build/learn5_service/learn5_service.egg-info/PKG-INFO
+[0.999s] writing dependency_links to ../../build/learn5_service/learn5_service.egg-info/dependency_links.txt
+[0.999s] writing entry points to ../../build/learn5_service/learn5_service.egg-info/entry_points.txt
+[1.000s] writing requirements to ../../build/learn5_service/learn5_service.egg-info/requires.txt
+[1.003s] writing top-level names to ../../build/learn5_service/learn5_service.egg-info/top_level.txt
+[1.004s] reading manifest file '../../build/learn5_service/learn5_service.egg-info/SOURCES.txt'
+[1.012s] adding license file 'LICENSE'
+[1.012s] writing manifest file '../../build/learn5_service/learn5_service.egg-info/SOURCES.txt'
+[1.012s] running build
+[1.012s] running build_py
+[1.012s] copying learn5_service/face_recog_node.py -> /home/uadmin/learning/learn5/learn5_ws/build/learn5_service/build/lib/learn5_service
+[1.012s] running install
+[1.012s] running install_lib
+[1.017s] copying /home/uadmin/learning/learn5/learn5_ws/build/learn5_service/build/lib/learn5_service/face_recog_node.py -> /home/uadmin/learning/learn5/learn5_ws/install/learn5_service/lib/python3.10/site-packages/learn5_service
+[1.017s] byte-compiling /home/uadmin/learning/learn5/learn5_ws/install/learn5_service/lib/python3.10/site-packages/learn5_service/face_recog_node.py to face_recog_node.cpython-310.pyc
+[1.017s] running install_data
+[1.017s] running install_egg_info
+[1.019s] removing '/home/uadmin/learning/learn5/learn5_ws/install/learn5_service/lib/python3.10/site-packages/learn5_service-0.0.0-py3.10.egg-info' (and everything under it)
+[1.022s] Copying ../../build/learn5_service/learn5_service.egg-info to /home/uadmin/learning/learn5/learn5_ws/install/learn5_service/lib/python3.10/site-packages/learn5_service-0.0.0-py3.10.egg-info
+[1.023s] running install_scripts
+[1.042s] Installing face_recog_node script to /home/uadmin/learning/learn5/learn5_ws/install/learn5_service/lib/learn5_service
+[1.043s] writing list of installed files to '/home/uadmin/learning/learn5/learn5_ws/build/learn5_service/install.log'
+[1.062s] Invoked command in '/home/uadmin/learning/learn5/learn5_ws/src/learn5_service' returned '0': PYTHONPATH=/home/uadmin/learning/learn5/learn5_ws/build/learn5_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uadmin/learning/learn5/learn5_ws/install/learn5_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learn5_service build --build-base /home/uadmin/learning/learn5/learn5_ws/build/learn5_service/build install --record /home/uadmin/learning/learn5/learn5_ws/build/learn5_service/install.log --single-version-externally-managed install_data

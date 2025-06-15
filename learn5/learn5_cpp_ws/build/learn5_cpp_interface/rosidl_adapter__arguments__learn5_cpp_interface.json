@@ -1,0 +1,6 @@
+{
+  "package_name": "learn5_cpp_interface",
+  "non_idl_tuples": [
+    "/home/uadmin/learning/learn5/learn5_cpp_ws/src/learn5_cpp_interface:srv/LearnInterface.srv"
+  ]
+}

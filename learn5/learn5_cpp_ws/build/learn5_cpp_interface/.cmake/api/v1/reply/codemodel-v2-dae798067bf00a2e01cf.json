@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-cc5c31335a3aa9baa771.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "learn5_cpp_interface__py",
+					"jsonFile" : "directory-learn5_cpp_interface__py-10889e570f65cdede18d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_interface/learn5_cpp_interface__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "learn5_cpp_interface",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_learn5_cpp_interface_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_learn5_cpp_interface_egg-9c1e46e1e5587fa18c2e.json",
+					"name" : "ament_cmake_python_build_learn5_cpp_interface_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_learn5_cpp_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_learn5_cpp_interface-f33a99749104265335e6.json",
+					"name" : "ament_cmake_python_copy_learn5_cpp_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface-219b47be6cbe8dadec00.json",
+					"name" : "learn5_cpp_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__cpp-51179df387bf54928854.json",
+					"name" : "learn5_cpp_interface__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "learn5_cpp_interface__py::@51e3183854133f6b58d8",
+					"jsonFile" : "target-learn5_cpp_interface__py-c1907f3b6153d3518a77.json",
+					"name" : "learn5_cpp_interface__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_generator_c-869e83bb34c336787b98.json",
+					"name" : "learn5_cpp_interface__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_generator_py-957067d34fb9bc900f00.json",
+					"name" : "learn5_cpp_interface__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_c-c167a67eca168d8e597d.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_c__pyext-d564bd70ce42c0eaae91.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_cpp-fb75ae595647f213e0c5.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_fastrtps_c-b615e07d11cb7aea320c.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_fastrtps_c__pyext-97ebceea640af4d976d5.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_fastrtps_cpp-fcc776beb975518d56d5.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_introspection_c-1a2b1caa94eb1badacb9.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_introspection_c__pyext-5c04f6b9d02a806a19c2.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface__rosidl_typesupport_introspection_cpp-ba9b1f4a8eab0dd08c00.json",
+					"name" : "learn5_cpp_interface__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn5_cpp_interface_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn5_cpp_interface_uninstall-cad585d77a2c04ec6dfb.json",
+					"name" : "learn5_cpp_interface_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-81e8471ac5597591a420.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/uadmin/learning/learn5/learn5_cpp_ws/build/learn5_cpp_interface",
+		"source" : "/home/uadmin/learning/learn5/learn5_cpp_ws/src/learn5_cpp_interface"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
